@@ -1,0 +1,134 @@
+# Copyright (C) 2021 Scroll Top
+# This file is distributed under the same license as the Scroll Top package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Scroll Top\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: admin/admin.php:15, admin/admin.php:442
+msgid "Scroll To Top Settings"
+msgstr ""
+
+#: admin/admin.php:16
+msgid "Scroll To Top"
+msgstr ""
+
+#: admin/admin.php:77, admin/admin.php:192
+msgid "Enable"
+msgstr ""
+
+#: admin/admin.php:86, admin/admin.php:212
+msgid "Type"
+msgstr ""
+
+#: admin/admin.php:95, admin/admin.php:221
+msgid "Text"
+msgstr ""
+
+#: admin/admin.php:104, admin/admin.php:248
+msgid "Position"
+msgstr ""
+
+#: admin/admin.php:113
+msgid "Color"
+msgstr ""
+
+#: admin/admin.php:122
+msgid "Background Color"
+msgstr ""
+
+#: admin/admin.php:131
+msgid "Style"
+msgstr ""
+
+#: admin/admin.php:140, admin/admin.php:371
+msgid "Animation"
+msgstr ""
+
+#: admin/admin.php:149
+msgid "Speed"
+msgstr ""
+
+#: admin/admin.php:158
+msgid "Distance"
+msgstr ""
+
+#: admin/admin.php:167
+msgid "Target (optional)"
+msgstr ""
+
+#: admin/admin.php:176
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/admin.php:196
+msgid "Enable Back To Top?"
+msgstr ""
+
+#: admin/admin.php:216
+msgid "Icon"
+msgstr ""
+
+#: admin/admin.php:252
+msgid "Right Side"
+msgstr ""
+
+#: admin/admin.php:257
+msgid "Left Side"
+msgstr ""
+
+#: admin/admin.php:292
+msgid "Radius"
+msgstr ""
+
+#: admin/admin.php:313
+msgid "Rounded"
+msgstr ""
+
+#: admin/admin.php:335
+msgid "Square"
+msgstr ""
+
+#: admin/admin.php:357
+msgid "Circle"
+msgstr ""
+
+#: admin/admin.php:375
+msgid "Fade"
+msgstr ""
+
+#: admin/admin.php:380
+msgid "Slide"
+msgstr ""
+
+#: admin/admin.php:385
+msgid "None"
+msgstr ""
+
+#: admin/admin.php:399
+msgid " millisecond"
+msgstr ""
+
+#: admin/admin.php:410
+msgid " px"
+msgstr ""
+
+#: admin/admin.php:421
+msgid " example: #page"
+msgstr ""
+
+#: admin/admin.php:452
+msgid "Save Settings"
+msgstr ""
+
+#: inc/functions.php:15
+msgid "Back to Top"
+msgstr ""

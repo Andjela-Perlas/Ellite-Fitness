@@ -1,0 +1,74 @@
+.ist-font {
+    border-radius: var(--st-border-radius-4);
+    margin-bottom: 0;
+    cursor: pointer;
+    background: var(--st-background-primary);
+    border: 1px solid var(--st-border-color);
+    transition: all 200ms ease-in-out;
+}
+
+.ist-font:hover,
+.ist-font:focus {
+    border: 1px solid var(--st-color-accent);
+    outline: none;
+
+    svg {
+        path {
+            fill: var(--st-color-heading);
+        }
+    }
+}
+
+.ist-font.active {
+    border: 1px solid var(--st-color-accent);
+}
+
+.ist-sep {
+    border: 1px solid var(--st-border-color);
+}
+
+.ist-font-selector {
+    margin: 0;
+    padding: 0;
+}
+
+.ist-default-fonts,
+.ist-other-fonts {
+    .ist-font {
+        padding: 12px;
+        line-height: 1;
+        text-align: left;
+    }
+    .font-separator {
+        margin: 0 5px;
+    }
+}
+
+.ist-other-fonts {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 14px;
+
+    .ist-font {
+        text-align: left;
+    }
+
+    svg {
+        vertical-align: middle;
+        fill: var(--st-color-heading);
+        margin: 13px;
+        width: auto;
+    }
+
+    .active svg {
+        path {
+            border: 1px solid var(--st-color-accent)
+        }
+    }
+}
+
+.customize-site-typography {
+    .ist-default-fonts-heading {
+        margin: 0px 0px 17px 0;
+    }
+}
